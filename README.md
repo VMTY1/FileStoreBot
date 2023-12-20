@@ -34,10 +34,9 @@
 <a href="https://telegram.me/FxStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 
-## Heroky Deploy :
-_Press the button Deploy to heroku and give the values for the config vars. 👇_
+## Deploy to Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VMTY1/FileStoreBot)
 
 
 ## VPS Deploy : 
