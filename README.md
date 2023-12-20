@@ -14,7 +14,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/Avipatilpro/FileStoreBot">
+    <a href="https://github.com/VMTY1/FileStoreBot">
         <img src="https://i.ibb.co/R2cswyL/folder.png" height="80" width="80" alt="FileStoreBot Logo">
     </a>
 </p><b>
